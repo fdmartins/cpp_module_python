@@ -1,4 +1,4 @@
-modulo python escrito em CPP.
+Crie um modulo python escrito em CPP. Util para melhorar a performance de funções com alto custo computacional
 
 o codigo examplo em C++ fica em /src
 
