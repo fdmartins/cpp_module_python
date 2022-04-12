@@ -1,0 +1,7 @@
+README
+setup.py
+cppModuleTest.egg-info/PKG-INFO
+cppModuleTest.egg-info/SOURCES.txt
+cppModuleTest.egg-info/dependency_links.txt
+cppModuleTest.egg-info/top_level.txt
+src/module.cpp

@@ -1,0 +1,11 @@
+modulo python escrito em CPP.
+
+o codigo examplo em C++ fica em /src
+
+para compilar o codigo em C, é necessario um compilador instalado, ex: gcc (linux, osx)
+
+para compilar e instalar:
+pip3 install .
+
+execute o teste:
+python3 test.py
