@@ -1,0 +1,7 @@
+
+build/lib.macosx-12-x86_64-3.9/cppModuleTest.cpython-39-darwin.so
+build/temp.macosx-12-x86_64-3.9/src/module.o
+cppModuleTest.egg-info/dependency_links.txt
+cppModuleTest.egg-info/PKG-INFO
+cppModuleTest.egg-info/SOURCES.txt
+cppModuleTest.egg-info/top_level.txt
